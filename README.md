@@ -5,4 +5,6 @@
 
 [Lab03](https://github.com/ulvaan2106/AIML-2025/blob/main/Lab_3.ipynb) : Implement AI Game Strategy using Adversarial Search Algorithms
 
+[Lab04](https://github.com/ulvaan2106/AIML-2025/blob/main/Lab_4.ipynb) :Linear regression model using us housing data
+
 
