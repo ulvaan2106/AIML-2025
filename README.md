@@ -17,3 +17,5 @@
 [Lab 8](https://github.com/ulvaan2106/AIML-2025/blob/main/Lab_08.ipynb):Implement decision tree classifier using lending club data.
 
 [Lab 9](https://github.com/ulvaan2106/AIML-2025/blob/main/Lab9.ipynb): Implement Random forest ensemble classifier using lending club data.
+
+[Lab 10](https://github.com/ulvaan2106/AIML-2025/blob/main/Lab_10.ipynb):Implement K-Means Clustering using Household Electricity Consumption Dataset.
