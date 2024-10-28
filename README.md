@@ -12,3 +12,7 @@
 [Lab06](https://github.com/ulvaan2106/AIML-2025/blob/main/Lab_6.ipynb) : K-Nearest Neighbour Classification
 
 [Lab07](https://github.com/ulvaan2106/AIML-2025/blob/main/lab_07.ipynb): Prediction of Breast Cancer using Support Vector Machine Model
+
+
+[Lab 8](https://github.com/ulvaan2106/AIML-2025/blob/main/Lab_08.ipynb):Implement decision tree classifier using lending club data.
+
